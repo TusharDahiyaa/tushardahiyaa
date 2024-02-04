@@ -69,11 +69,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/tushardahiyaa/tushardahiyaa/output/snake.svg" alt="Snake animation" />
 
 ###
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
