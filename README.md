@@ -67,6 +67,8 @@
   </a>
 </div>
 
+<h3 align="left">My Contributions 🏆</h3>
+
 ###
 
 <img src="https://raw.githubusercontent.com/tushardahiyaa/tushardahiyaa/output/snake.svg" alt="Snake animation" />
