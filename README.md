@@ -74,3 +74,5 @@
 <img src="https://raw.githubusercontent.com/tushardahiyaa/tushardahiyaa/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<em><b>I love connecting with different people so if you want to say hi, I'd be happy to get to know you better!</b> :)</em>
